@@ -1,6 +1,4 @@
 # ECF-SQL
-Evaluation réalisée en fin de cours sur le SQL
-
 <table>
     <tbody>
         <tr valign="top">
@@ -11,6 +9,8 @@ Evaluation réalisée en fin de cours sur le SQL
         </tr>
     </tbody>
 </table>
+
+Evaluation réalisée en fin de cours sur le SQL
 
 L'objectif était de fournir un script .sql permettant de :
 - Créer une base de données
