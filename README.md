@@ -1,6 +1,17 @@
 # ECF-SQL
 Evaluation réalisée en fin de cours sur le SQL
 
+<table>
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>SQL</strong></span><br>
+            <img height="32px" src="https://cdn-icons-png.flaticon.com/512/337/337953.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 L'objectif était de fournir un script .sql permettant de :
 - Créer une base de données
 - Créer des tables
